@@ -6,4 +6,4 @@ addSbtPlugin("com.geirsson" % "sbt-ci-release"  % "1.5.5")
 addSbtPlugin("com.typesafe" % "sbt-mima-plugin" % "0.8.1")
 
 // Scala Native support
-addSbtPlugin("org.scala-native" % "sbt-scala-native" % "0.4.0-SNAPSHOT")
+addSbtPlugin("org.scala-native" % "sbt-scala-native" % "0.4.0")
